@@ -2,7 +2,7 @@
   "name": "sapd",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/sapd-web-secretary/website",
+  "homepage": "https://at-2517.github.io/SAPD-website",
   "type": "module",
   "scripts": {
     "dev": "vite",
