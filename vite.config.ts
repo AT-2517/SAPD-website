@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/website/',
+  base: '/SAPD-website/',
 
   build: {
     chunkSizeWarningLimit: 1500, 
