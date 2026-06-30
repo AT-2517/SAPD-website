@@ -31,22 +31,22 @@ export default function App() {
         {/* ... Keep all your section HTML exactly the same ... */}
         <section className="h-screen flex flex-col items-center justify-center pointer-events-none">
           <h1 className="text-5xl md:text-7xl font-bold tracking-tighter mb-4">
-            Quantum Design
+            .
           </h1>
           <p className="text-xl text-gray-400">
-            Scroll down to morph the probability field.
+            .
           </p>
         </section>
 
         <section className="h-screen flex flex-col items-center justify-center pointer-events-none">
           <h2 className="text-4xl font-semibold bg-clip-text text-transparent bg-linear-to-r from-cyan-400 to-blue-500">
-            Phase Transition
+            .
           </h2>
         </section>
 
         <section className="h-screen flex flex-col items-center justify-center pointer-events-none">
           <h2 className="text-4xl font-semibold text-white">
-            End of Timeline
+            .
           </h2>
         </section>
       </div>
